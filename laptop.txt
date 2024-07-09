@@ -1,0 +1,14 @@
+Acer,Nitro 5  ,15.6",144Hz,i5 12500H,8 Gb,512 Gb,RTX 3050,110000,13
+Acer,Helios 300,15.6",165Hz,i7 12700H,16 Gb,512 Gb,RTX 3060,185000,40
+Lenovo,Legion 5 ,15.6",120Hz,Ryzen 5 ,8 Gb,512 Gb,RTX 3050Ti,105000,100
+Lenovo,Legion 5Pro,16.2",165Hz,Ryzen 9,16 Gb,512 Gb,Rtx 3060Ti,220000,38
+Apple,Macbook Air,13.3",60Hz ,M1 8core,8 Gb,256 Gb,7 Core,130000,29
+Apple,Macbook Air,13.6",60Hz ,M2 8core,8 Gb,256 Gb,10 Core,172000,31
+Dell,Alienware,15.6",300Hz,i7 12700H,16 Gb,512 Gb,Rtx 4070,300000,39
+Dell,XPS 13+  ,13.3",90Hz,i7 12700P,16 Gb,512 Gb,Iris Xe,255000,50
+HP    ,Pavillion,15.6",90 Hz,ryzen 5,8 GB,256 Gb,RTX 3050 Ti,90000,99
+Asus,Zepyhrus 15,15.6",156 Hz,Ryzen 9,24 Gb,1024 Gbd,RTX 3080TI,450000,99
+Hp   ,Zhan    ,15.6",60Hz,i3 11300U,4 GB,512 GB,3050 Ti,80000,60
+Dell,inspiron 15,15.6",120Hx,Ryzen 5,12 Gb,512 Gb,3050 Ti,120000,18
+Razer,Blade 16,16.2",240 Hz,i9 12900K,32 Gb,1024 Gb,RTX 3080Ti,390000,1
+MSI,GF63,15.6",144 Hz,Ryzen 7,16 Gb,1 Tb,RTX 3060,280000,2

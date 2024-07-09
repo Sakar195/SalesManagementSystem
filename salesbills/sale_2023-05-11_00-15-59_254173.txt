@@ -1,0 +1,26 @@
+
+
+	 	 	 	 	        Gadgets Nepal 
+	 	 	 	 	 Kamaladi, Kathmandu, Nepal
+				         VAT NO : 16487175
+	 	 	 	 	     Contact - 9821345634
+	 	 	 	 	        TAX INVOICE 
+
+	 Date : 2023-05-11					Time : 00:15:59
+	 Sold To: Sakar Paudel
+	 Address: Kathmandu
+	 Tel: 9854478
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Acer	   Nitro 5  	   2	   110000	   220000	    
+
+
+ 											Sub-total	   220000 
+									      Discount(8%)	   17600.00 
+											 Shipping	   0 
+											 Taxable	   202400.0 
+											 VAT 13%	   26312.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       228712.00
+	----------------------------------------------------------------------

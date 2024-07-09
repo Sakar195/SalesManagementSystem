@@ -1,0 +1,29 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 33329414
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 170482
+
+	 Date : 2023-05-11					Time : 02:01:50
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Razer	   Blade 16	   1	   390000	   390000	   
+	 2	    GIGABYTE	   AERO 15	   1	   210000	   210000	    
+
+
+ 								Sub-total	   600000 
+						          Discount(7%)	   42000.00 
+								 Shipping	   0 
+								 Taxable	   558000.0 
+								 VAT 13%	   72540.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       630540.00
+	----------------------------------------------------------------------

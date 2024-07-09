@@ -1,0 +1,29 @@
+
+
+	 	 	 	 	        Gadgets Nepal 
+	 	 	 	 	 Kamaladi, Kathmandu, Nepal
+				         VAT NO : 14813395
+	 	 	 	 	     Contact - 9821345634
+	 	 	 	 	        TAX INVOICE 
+
+	 Date : 2023-05-29					Time : 07:47:57
+	 Sold To: sakar paudel
+	 Address: 23
+	 Tel: 23
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Acer	   Helios 300	   2	   185000	   370000	   
+	 2	    Lenovo	   Legion 5Pro	   1	   220000	   220000	   
+	 3	    Dell	   Alienware	   1	   300000	   300000	   
+	 4	    HP    	   Pavillion	   1	   90000	   90000	    
+
+
+ 								Sub-total	   980000 
+						          Discount(5%)	   49000.00 
+								 Shipping	   150 
+								 Taxable	   931000.0 
+								 VAT 13%	   121030.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       1052180.00
+	----------------------------------------------------------------------

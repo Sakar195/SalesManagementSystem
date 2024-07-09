@@ -1,0 +1,28 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 65863077
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 586756
+
+	 Date : 2023-05-11					Time : 22:16:04
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    MSI	   GF63	   2	   280000	   560000	    
+
+
+ 								Sub-total	   560000 
+						          Discount(1%)	   5600.00 
+								 Shipping	   1000 
+								 Taxable	   554400.0 
+								 VAT 13%	   72072.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       627472.00
+	----------------------------------------------------------------------

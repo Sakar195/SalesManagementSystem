@@ -1,0 +1,28 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 98459088
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 620069
+
+	 Date : 2024-01-05					Time : 10:57:29
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Hp   	   Zhan    	   60	   80000	   4800000	    
+
+
+ 								Sub-total	   4800000 
+						          Discount(2%)	   96000.00 
+								 Shipping	   0 
+								 Taxable	   4704000.0 
+								 VAT 13%	   611520.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       5315520.00
+	----------------------------------------------------------------------

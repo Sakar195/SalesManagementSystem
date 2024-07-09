@@ -1,0 +1,26 @@
+
+
+	 	 	 	 	        Gadgets Nepal 
+	 	 	 	 	 Kamaladi, Kathmandu, Nepal
+				         VAT NO : 82724770
+	 	 	 	 	     Contact - 9821345634
+	 	 	 	 	        TAX INVOICE 
+
+	 Date : 2023-05-11					Time : 22:39:06
+	 Sold To: Sakar Paudel
+	 Address: Kathmandu
+	 Tel: 93482482323
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Apple	   Macbook Air	   3	   172000	   516000	    
+
+
+ 								Sub-total	   516000 
+						          Discount(3%)	   15480.00 
+								 Shipping	   0 
+								 Taxable	   500520.0 
+								 VAT 13%	   65067.60
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       565587.60
+	----------------------------------------------------------------------

@@ -1,0 +1,29 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 52656399
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 218956
+
+	 Date : 2023-05-11					Time : 02:41:57
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Lenovo	   Legion 5 	   2	   105000	   210000	   
+	 2	    Lenovo	   Legion 5Pro	   2	   220000	   440000	    
+
+
+ 								Sub-total	   650000 
+						          Discount(4%)	   26000.00 
+								 Shipping	   1000 
+								 Taxable	   624000.0 
+								 VAT 13%	   81120.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       706120.00
+	----------------------------------------------------------------------

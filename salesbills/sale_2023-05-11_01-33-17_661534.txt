@@ -1,0 +1,29 @@
+
+
+	 	 	 	 	        Gadgets Nepal 
+	 	 	 	 	 Kamaladi, Kathmandu, Nepal
+				         VAT NO : 13052877
+	 	 	 	 	     Contact - 9821345634
+	 	 	 	 	        TAX INVOICE 
+
+	 Date : 2023-05-11					Time : 01:33:17
+	 Sold To: Aditya Singh
+	 Address: Jaipur
+	 Tel: 9823345671
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Dell	   XPS 13+  	   2	   255000	   510000	   
+	 2	    Apple	   Macbook Air	   1	   172000	   172000	   
+	 3	    Acer	   Nitro 5  	   1	   110000	   110000	   
+	 4	    Asus	   Zepyhrus 15	   1	   450000	   450000	    
+
+
+ 								Sub-total	   1242000 
+						          Discount(9%)	   111780.00 
+								 Shipping	   150 
+								 Taxable	   1130220.0 
+								 VAT 13%	   146928.60
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       1277298.60
+	----------------------------------------------------------------------

@@ -1,0 +1,30 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 63064271
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 576752
+
+	 Date : 2023-05-11					Time : 01:14:38
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Apple	   Macbook Air	   4	   130000	   520000	   
+	 2	    Acer	   Helios 300	   5	   185000	   925000	   
+	 3	    Dell	   XPS 13+  	   1	   255000	   255000	    
+
+
+ 								Sub-total	   1700000 
+						          Discount(2%)	   34000.00 
+								 Shipping	   1000 
+								 Taxable	   1666000.0 
+								 VAT 13%	   216580.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       1883580.00
+	----------------------------------------------------------------------

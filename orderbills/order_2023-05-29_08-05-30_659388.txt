@@ -1,0 +1,29 @@
+
+
+	 	 	 	       Jyoti Electronics(Pvt.) Ltd 
+	 	 	 	 	     Jamal, Kathmandu, Nepal
+				            VAT NO : 19101914
+	 	 	 	 	       Contact - 9841345678
+	 	 	 	 	          TAX INVOICE 
+
+ 	 659388
+
+	 Date : 2023-05-29					Time : 08:05:30
+	 Sold To: Gadgets Nepal
+	 Address: Kamaladi,Kathmandu
+	 Tel: 9821345634
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Acer	   Nitro 5  	   2	   110000	   220000	   
+	 2	    Acer	   Helios 300	   3	   185000	   555000	    
+
+
+ 								Sub-total	   775000 
+						          Discount(10%)	   77500.00 
+								 Shipping	   1000 
+								 Taxable	   697500.0 
+								 VAT 13%	   90675.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       789175.00
+	----------------------------------------------------------------------

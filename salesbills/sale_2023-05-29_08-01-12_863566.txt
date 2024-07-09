@@ -1,0 +1,28 @@
+
+
+	 	 	 	 	        Gadgets Nepal 
+	 	 	 	 	 Kamaladi, Kathmandu, Nepal
+				         VAT NO : 25627179
+	 	 	 	 	     Contact - 9821345634
+	 	 	 	 	        TAX INVOICE 
+
+	 Date : 2023-05-29					Time : 08:01:12
+	 Sold To: sakar
+	 Address: jhapa
+	 Tel: 122344
+	---------------------------------------------------------------------
+	 S.N.   company    Model          QTY      Rate        AMOUNT(Rs.)
+	---------------------------------------------------------------------
+	 1	    Acer	   Nitro 5  	   2	   110000	   220000	   
+	 2	    Lenovo	   Legion 5Pro	   2	   220000	   440000	   
+	 3	    Dell	   Alienware	   1	   300000	   300000	    
+
+
+ 								Sub-total	   960000 
+						          Discount(4%)	   38400.00 
+								 Shipping	   150 
+								 Taxable	   921600.0 
+								 VAT 13%	   119808.00
+	----------------------------------------------------------------------
+	         Thank You!                   Grand Total       1041558.00
+	----------------------------------------------------------------------
